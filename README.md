@@ -10,6 +10,7 @@ Then you must run it `./O`
 
 Input:\
 In 3 rows and 3 colums you must print a field after your move.\
+Note, that you must input only possible fields!\
 `X` - is cell with 'X', `O` - is cell with 'O' and `.` - is empty cell.\
 For example:
 ```
@@ -33,6 +34,7 @@ Then you must run it `$ ./X`
 
 Input:\
 In 3 rows and 3 colums you must print a field after your move.\
+Note, that you must input only possible fields!\
 `X` - is cell with 'X', `O` - is cell with 'O' and `.` - is empty cell.\
 For example:
 ```
