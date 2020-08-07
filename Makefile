@@ -4,8 +4,8 @@ OFLAGS=-std=c++17 -DO
 
 all: O X
 
-O: makeMove.cpp
+O: src/makeMove.cpp
 	$(CC) $(OFLAGS) -o O $^
 
-X: makeMove.cpp
+X: src/makeMove.cpp
 	$(CC) $(XFLAGS) -o X $^
